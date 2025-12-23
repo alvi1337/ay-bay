@@ -9,15 +9,13 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-assets/
+#assets/
 metro-cache/
 .metro-cache-*/
 
 
 
 
-ios
-android
 
 # macOS
 .DS_Store
